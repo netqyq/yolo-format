@@ -1,5 +1,5 @@
 # YOLO Format
-Converting Annotation to YOLO
+Converting other annotation formats to YOLO format. Annotation is used in object detection projects.
 
 ## To convert Open Image Dataset format to YOLO format.
 See OpenImageDataset directory.
