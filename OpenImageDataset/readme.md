@@ -1,0 +1,1 @@
+Converting annotations from OpenImageDataset format to YOLO format.

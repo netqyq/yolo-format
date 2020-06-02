@@ -1,0 +1,5 @@
+classes = 44
+train = /Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/train.txt
+valid = /Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/test.txt
+names = /Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/classes.names
+backup = backup

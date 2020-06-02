@@ -1,0 +1,10 @@
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_1.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_11.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_13.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_2.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_6.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_15.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_4.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_5.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_14.jpg
+/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages/img_9.jpg
