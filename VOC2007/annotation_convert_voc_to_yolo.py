@@ -13,14 +13,14 @@ from absl.flags import FLAGS
 from lxml import etree
 
 flags.DEFINE_string(
-    'anno_dir', '/Users/yq/Downloads/datasets/rubbish-test/VOC2007/Annotations', 'path to anno dir')
+    'anno_dir', '/Users/yq/Downloads/datasets/trainval/VOC2007/Annotations', 'path to anno dir')
 flags.DEFINE_string(
-    'image_dir', '/Users/yq/Downloads/datasets/datasets/rubbish-test/VOC2007/JPEGImages', 'path to image dir')
+    'image_dir', '/Users/yq/Downloads/datasets/datasets/trainval/VOC2007/JPEGImages', 'path to image dir')
 flags.DEFINE_string(
-    'trainval_list_txt', '/Users/yq/Downloads/datasets/rubbish-test/VOC2007/ImageSets/Main/trainval.txt', 'path to a set of train')
-flags.DEFINE_string('classes', '/Users/yq/Downloads/datasets/rubbish-test/VOC2007/train_classes.txt',
+    'trainval_list_txt', '/Users/yq/Downloads/datasets/trainval/VOC2007/ImageSets/Main/trainval.txt', 'path to a set of train')
+flags.DEFINE_string('classes', '/Users/yq/Downloads/datasets/trainval/train_classes.txt',
                     'path to a list of class names')
-flags.DEFINE_string('txt_anno_dir', '/Users/yq/Downloads/datasets/rubbish-test/VOC2007/Annotations-txt',
+flags.DEFINE_string('txt_anno_dir', '/Users/yq/Downloads/datasets/trainval/VOC2007/Annotations-txt',
                     'path to a list of class names')
 
 def convert_annotation(list_txt, output_path, image_dir, anno_dir, class_names, anno_dir_txt):

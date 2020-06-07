@@ -36,7 +36,7 @@ Setting up full path to directory with Traffic Signs images
 # r'\home\my_name\Downloads\ts'
 # or:
 # '\\home\\my_name\\Downloads\\ts'
-full_path_to_images = '/Users/yq/Downloads/datasets/rubbish-test/VOC2007/JPEGImages'
+full_path_to_images = '/Users/yq/Downloads/datasets/trainval/VOC2007/JPEGImages'
 
 """
 End of:
